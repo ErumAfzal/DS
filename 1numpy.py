@@ -3,18 +3,7 @@ Numpy-2D_Erum.ipynb
 Numpy-2D_Erum.ipynb_
 italicized text# 2D Numpy in Python
 
-Estimated time needed: 30 minutes
 
-Objectives
-After completing this lab you will be able to:
-
-Operate comfortably with numpy
-Perform complex operations with numpy
-Table of Contents
-Create a 2D Numpy Array
-Accessing different elements of a Numpy Array
-Basic Operations
-Create a 2D Numpy Array
 
 [1]
 0s
@@ -38,7 +27,7 @@ array([[101,  39,  59,  61],
 
 a = [[11, 12, 13], [21, 22, 23], [31, 32, 33]]
 a
-[[11, 12, 13], [21, 22, 23], [31, 32, 33]]
+[[11, 12, 13], [21, 22, 23], [31, 32, 35]]
 We can cast the list to a Numpy Array as follows:
 
 
